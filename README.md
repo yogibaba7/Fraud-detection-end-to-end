@@ -4,11 +4,11 @@ This repository contains detailed documentation and analysis reports for deeper 
 
 - 📘 **Project Documentation**  
   Detailed explanation of the end-to-end project workflow, data preprocessing, feature engineering, model building, threshold optimization, and system design.  
-  👉 [Read Project Documentation](docs/Project_Documentation.md)
+  👉 [Read Project Documentation](end_to_end_fraud_detection_Documentation.pdf)
 
 - 📊 **Project Report**  
   Understanding fraud behaviour,solution and its impact.  
-  👉 [Read Insight Report](docs/Insight_Report.md)
+  👉 [Read Insight Report](Project_Report.pdf)
 
 
 
